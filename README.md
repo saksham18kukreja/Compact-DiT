@@ -3,7 +3,7 @@
 The code is just a minor update of the Dit code by meta [https://github.com/facebookresearch/DiT](https://github.com/facebookresearch/DiT)
 
 ## Updates:
-1.  Simplified the training code and model to work with simpler imageset and low compute hardware.
+1.  Updated the training code and model to work with a simpler image set and lower compute resources
 
 
 ## How to train:
@@ -20,5 +20,3 @@ Change the dataloader for your custom dataset in both autoencoder.py and train.p
 ## Results 
 Training and sampling on MNIST dataset
 ![Image Description](results/Figure_2.png)
-
-<img src="https://github.com/saksham18kukreja/Compact-DiT/blob/main/results/Figure_2.png" width="600" height="450" />
