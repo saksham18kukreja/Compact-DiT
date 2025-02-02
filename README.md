@@ -3,7 +3,7 @@
 The code is just a minor update of the Dit code by meta [https://github.com/facebookresearch/DiT](https://github.com/facebookresearch/DiT)
 
 ## Updates:
-1.  Updated the training code and model to work with a simpler image set and lower compute resources
+1.  Updated the training and model to work with a simpler image set and lower compute resources
 
 
 ## How to train:
