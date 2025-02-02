@@ -9,7 +9,7 @@ The code is just a minor update of the Dit code by meta [https://github.com/face
 ## How to train:
 1. Train the Autoencoder by running [autoencoder_train.py](https://github.com/saksham18kukreja/Compact-DiT/blob/main/autoencoder_train.py)
 
-The original code uses variational auto encoder to include stochasticity in the latent space output, removing this for faster training.
+The original code uses variational auto encoder to include stochasticity in the latent space output, Using a vanilla-autoencoder for faster training.
 
 2. Train the Diffusion transfomer [train.py](https://github.com/saksham18kukreja/Compact-DiT/blob/main/train.py)
 
